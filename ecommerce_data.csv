@@ -1,0 +1,101 @@
+order_id,customer_id,product_id,category,quantity,price,order_date,customer_name,customer_email,customer_segment,order_status,region
+1,140,1003,Elettronica,3,88.57,2023-09-05,Customer_140,customer140@example.com,Nuovo,Cancellato,Campania
+2,134,1002,Casa,4,28.9,2023-09-03,Customer_134,customer134@example.com,Nuovo,Completato,Veneto
+3,138,1000,Casa,2,220.49,2023-09-23,Customer_138,customer138@example.com,Ricorrente,Completato,Sicilia
+4,137,1008,Elettronica,2,215.48,2023-09-11,Customer_137,customer137@example.com,Ricorrente,Completato,Lazio
+5,148,1010,Elettronica,1,126.38,2023-09-12,Customer_148,customer148@example.com,Ricorrente,Cancellato,Toscana
+6,102,1014,Casa,1,292.47,2023-09-13,Customer_102,customer102@example.com,Nuovo,Cancellato,Toscana
+7,140,1019,Abbigliamento,5,73.84,2023-09-03,Customer_140,customer140@example.com,Nuovo,Cancellato,Lazio
+8,149,1009,Elettronica,2,262.62,2023-09-13,Customer_149,customer149@example.com,Ricorrente,In lavorazione,Campania
+9,123,1005,Abbigliamento,3,78.66,2023-09-09,Customer_123,customer123@example.com,Nuovo,Cancellato,Campania
+10,110,1017,Casa,2,65.75,2023-09-13,Customer_110,customer110@example.com,Ricorrente,Cancellato,Campania
+11,135,1007,Casa,3,256.0,2023-09-25,Customer_135,customer135@example.com,Nuovo,Completato,Lombardia
+12,120,1012,Abbigliamento,1,79.08,2023-10-01,Customer_120,customer120@example.com,Ricorrente,Completato,Campania
+13,131,1012,Casa,4,60.0,2023-09-05,Customer_131,customer131@example.com,Nuovo,Cancellato,Veneto
+14,134,1008,Casa,5,139.96,2023-09-19,Customer_134,customer134@example.com,Ricorrente,In lavorazione,Lazio
+15,108,1016,Abbigliamento,1,231.62,2023-09-28,Customer_108,customer108@example.com,Nuovo,Completato,Campania
+16,110,1013,Casa,1,127.73,2023-09-20,Customer_110,customer110@example.com,Ricorrente,Cancellato,Toscana
+17,135,1000,Casa,1,210.88,2023-09-18,Customer_135,customer135@example.com,Ricorrente,Cancellato,Toscana
+18,107,1009,Abbigliamento,2,147.04,2023-10-01,Customer_107,customer107@example.com,Ricorrente,Cancellato,Lazio
+19,132,1003,Casa,3,255.67,2023-09-17,Customer_132,customer132@example.com,Nuovo,Completato,Toscana
+20,148,1005,Casa,5,277.18,2023-09-20,Customer_148,customer148@example.com,Ricorrente,In lavorazione,Lombardia
+21,107,1011,Abbigliamento,2,36.22,2023-09-29,Customer_107,customer107@example.com,Nuovo,Completato,Campania
+22,131,1002,Casa,2,55.95,2023-09-16,Customer_131,customer131@example.com,Nuovo,In lavorazione,Veneto
+23,138,1013,Elettronica,5,231.47,2023-09-23,Customer_138,customer138@example.com,Nuovo,Cancellato,Toscana
+24,125,1020,Abbigliamento,4,271.89,2023-09-15,Customer_125,customer125@example.com,Nuovo,Completato,Lazio
+25,104,1010,Elettronica,5,175.1,2023-09-19,Customer_104,customer104@example.com,Nuovo,Completato,Lombardia
+26,145,1020,Elettronica,2,38.87,2023-09-02,Customer_145,customer145@example.com,Ricorrente,Completato,Veneto
+27,115,1008,Casa,4,79.99,2023-09-05,Customer_115,customer115@example.com,Ricorrente,Completato,Sicilia
+28,126,1006,Elettronica,1,204.52,2023-09-12,Customer_126,customer126@example.com,Ricorrente,In lavorazione,Sicilia
+29,146,1001,Casa,1,36.97,2023-09-24,Customer_146,customer146@example.com,Ricorrente,Completato,Lazio
+30,112,1006,Casa,4,59.25,2023-09-06,Customer_112,customer112@example.com,Ricorrente,In lavorazione,Lazio
+31,104,1014,Casa,1,34.16,2023-09-18,Customer_104,customer104@example.com,Nuovo,Completato,Lazio
+32,110,1013,Abbigliamento,4,79.85,2023-09-13,Customer_110,customer110@example.com,Nuovo,Completato,Sicilia
+33,100,1012,Abbigliamento,4,99.87,2023-09-23,Customer_100,customer100@example.com,Ricorrente,Completato,Lazio
+34,118,1006,Elettronica,5,226.01,2023-09-02,Customer_118,customer118@example.com,Ricorrente,Completato,Lombardia
+35,137,1015,Casa,5,64.08,2023-10-01,Customer_137,customer137@example.com,Nuovo,Completato,Lombardia
+36,138,1002,Casa,2,133.06,2023-10-01,Customer_138,customer138@example.com,Nuovo,Cancellato,Veneto
+37,102,1019,Elettronica,4,204.06,2023-09-19,Customer_102,customer102@example.com,Ricorrente,In lavorazione,Lazio
+38,142,1010,Elettronica,3,130.82,2023-09-22,Customer_142,customer142@example.com,Ricorrente,In lavorazione,Toscana
+39,148,1002,Elettronica,4,193.92,2023-09-19,Customer_148,customer148@example.com,Nuovo,Completato,Veneto
+40,113,1016,Abbigliamento,2,281.31,2023-09-29,Customer_113,customer113@example.com,Nuovo,Completato,Toscana
+41,118,1005,Abbigliamento,5,216.99,2023-09-20,Customer_118,customer118@example.com,Nuovo,Cancellato,Veneto
+42,119,1003,Elettronica,3,52.32,2023-09-04,Customer_119,customer119@example.com,Nuovo,In lavorazione,Toscana
+43,138,1006,Casa,3,77.01,2023-09-21,Customer_138,customer138@example.com,Ricorrente,Cancellato,Sicilia
+44,116,1001,Elettronica,4,252.22,2023-09-02,Customer_116,customer116@example.com,Nuovo,In lavorazione,Lazio
+45,140,1008,Elettronica,4,174.47,2023-09-14,Customer_140,customer140@example.com,Nuovo,Completato,Lombardia
+46,144,1004,Casa,1,253.69,2023-09-19,Customer_144,customer144@example.com,Nuovo,In lavorazione,Lazio
+47,102,1009,Abbigliamento,1,271.7,2023-09-07,Customer_102,customer102@example.com,Nuovo,Cancellato,Lombardia
+48,122,1017,Abbigliamento,5,229.85,2023-09-30,Customer_122,customer122@example.com,Nuovo,Completato,Lazio
+49,126,1000,Elettronica,3,239.07,2023-09-14,Customer_126,customer126@example.com,Nuovo,In lavorazione,Lazio
+50,150,1003,Abbigliamento,1,260.41,2023-09-08,Customer_150,customer150@example.com,Nuovo,In lavorazione,Toscana
+51,119,1007,Elettronica,1,204.81,2023-09-13,Customer_119,customer119@example.com,Ricorrente,In lavorazione,Lombardia
+52,149,1008,Abbigliamento,5,131.91,2023-09-27,Customer_149,customer149@example.com,Ricorrente,Completato,Lombardia
+53,116,1005,Casa,3,30.71,2023-09-20,Customer_116,customer116@example.com,Ricorrente,In lavorazione,Campania
+54,150,1010,Abbigliamento,5,295.59,2023-09-04,Customer_150,customer150@example.com,Ricorrente,Cancellato,Lazio
+55,116,1001,Casa,4,20.47,2023-09-30,Customer_116,customer116@example.com,Nuovo,In lavorazione,Sicilia
+56,104,1010,Casa,3,205.75,2023-09-04,Customer_104,customer104@example.com,Ricorrente,Cancellato,Toscana
+57,142,1013,Abbigliamento,4,215.22,2023-09-18,Customer_142,customer142@example.com,Nuovo,Completato,Sicilia
+58,142,1012,Casa,2,192.34,2023-09-10,Customer_142,customer142@example.com,Ricorrente,Cancellato,Lombardia
+59,119,1009,Elettronica,4,240.01,2023-09-20,Customer_119,customer119@example.com,Ricorrente,In lavorazione,Sicilia
+60,128,1006,Casa,4,242.25,2023-10-01,Customer_128,customer128@example.com,Nuovo,Cancellato,Lombardia
+61,118,1016,Casa,5,113.85,2023-09-27,Customer_118,customer118@example.com,Nuovo,Cancellato,Toscana
+62,114,1006,Elettronica,1,32.94,2023-09-16,Customer_114,customer114@example.com,Nuovo,In lavorazione,Sicilia
+63,140,1018,Elettronica,4,158.43,2023-09-08,Customer_140,customer140@example.com,Nuovo,Cancellato,Campania
+64,100,1003,Abbigliamento,2,69.25,2023-10-01,Customer_100,customer100@example.com,Ricorrente,Completato,Veneto
+65,115,1003,Abbigliamento,2,244.4,2023-09-22,Customer_115,customer115@example.com,Ricorrente,In lavorazione,Veneto
+66,146,1016,Abbigliamento,5,144.86,2023-09-06,Customer_146,customer146@example.com,Ricorrente,In lavorazione,Toscana
+67,148,1007,Casa,3,234.43,2023-09-17,Customer_148,customer148@example.com,Ricorrente,Cancellato,Lazio
+68,117,1014,Elettronica,3,85.66,2023-09-11,Customer_117,customer117@example.com,Ricorrente,Cancellato,Lombardia
+69,108,1004,Elettronica,4,214.31,2023-09-23,Customer_108,customer108@example.com,Nuovo,Completato,Sicilia
+70,126,1010,Casa,4,136.42,2023-09-07,Customer_126,customer126@example.com,Ricorrente,In lavorazione,Veneto
+71,144,1000,Casa,4,153.55,2023-10-01,Customer_144,customer144@example.com,Ricorrente,In lavorazione,Sicilia
+72,126,1017,Casa,5,243.96,2023-09-29,Customer_126,customer126@example.com,Nuovo,In lavorazione,Lazio
+73,117,1013,Abbigliamento,1,128.88,2023-09-22,Customer_117,customer117@example.com,Ricorrente,Cancellato,Lazio
+74,129,1004,Casa,5,27.55,2023-09-13,Customer_129,customer129@example.com,Nuovo,Completato,Campania
+75,127,1004,Abbigliamento,2,34.08,2023-09-13,Customer_127,customer127@example.com,Ricorrente,Completato,Sicilia
+76,120,1010,Abbigliamento,3,230.56,2023-09-27,Customer_120,customer120@example.com,Ricorrente,In lavorazione,Lombardia
+77,130,1000,Casa,5,34.58,2023-10-01,Customer_130,customer130@example.com,Ricorrente,Completato,Campania
+78,104,1020,Elettronica,1,285.89,2023-09-07,Customer_104,customer104@example.com,Nuovo,Cancellato,Lazio
+79,115,1004,Abbigliamento,1,177.91,2023-09-07,Customer_115,customer115@example.com,Ricorrente,Cancellato,Toscana
+80,149,1011,Elettronica,5,190.03,2023-09-24,Customer_149,customer149@example.com,Nuovo,Completato,Toscana
+81,106,1018,Elettronica,3,181.22,2023-09-30,Customer_106,customer106@example.com,Ricorrente,In lavorazione,Campania
+82,112,1002,Casa,2,48.53,2023-09-25,Customer_112,customer112@example.com,Ricorrente,Cancellato,Veneto
+83,107,1018,Elettronica,3,169.17,2023-09-22,Customer_107,customer107@example.com,Ricorrente,Completato,Veneto
+84,141,1010,Elettronica,4,250.25,2023-09-04,Customer_141,customer141@example.com,Ricorrente,In lavorazione,Campania
+85,129,1004,Abbigliamento,2,225.46,2023-10-01,Customer_129,customer129@example.com,Ricorrente,Cancellato,Veneto
+86,149,1015,Abbigliamento,4,251.21,2023-09-19,Customer_149,customer149@example.com,Ricorrente,In lavorazione,Lazio
+87,105,1008,Abbigliamento,2,230.13,2023-09-19,Customer_105,customer105@example.com,Ricorrente,In lavorazione,Lombardia
+88,131,1010,Elettronica,4,79.39,2023-09-26,Customer_131,customer131@example.com,Ricorrente,In lavorazione,Toscana
+89,138,1008,Casa,1,164.66,2023-09-07,Customer_138,customer138@example.com,Nuovo,Completato,Campania
+90,126,1015,Casa,2,213.37,2023-09-21,Customer_126,customer126@example.com,Ricorrente,In lavorazione,Lombardia
+91,105,1009,Elettronica,4,213.7,2023-09-10,Customer_105,customer105@example.com,Ricorrente,In lavorazione,Veneto
+92,133,1011,Abbigliamento,5,112.62,2023-09-23,Customer_133,customer133@example.com,Ricorrente,In lavorazione,Toscana
+93,116,1007,Elettronica,2,108.35,2023-09-24,Customer_116,customer116@example.com,Nuovo,Completato,Lazio
+94,147,1015,Abbigliamento,5,293.45,2023-09-17,Customer_147,customer147@example.com,Ricorrente,Completato,Lazio
+95,118,1007,Abbigliamento,2,104.63,2023-09-23,Customer_118,customer118@example.com,Nuovo,In lavorazione,Lombardia
+96,103,1017,Abbigliamento,2,198.6,2023-09-25,Customer_103,customer103@example.com,Ricorrente,Completato,Lombardia
+97,136,1009,Abbigliamento,4,143.33,2023-09-06,Customer_136,customer136@example.com,Nuovo,In lavorazione,Sicilia
+98,107,1002,Abbigliamento,4,40.74,2023-09-21,Customer_107,customer107@example.com,Nuovo,Completato,Lazio
+99,136,1009,Elettronica,2,53.17,2023-09-25,Customer_136,customer136@example.com,Ricorrente,Cancellato,Veneto
+100,150,1019,Elettronica,5,126.51,2023-09-30,Customer_150,customer150@example.com,Ricorrente,In lavorazione,Veneto
